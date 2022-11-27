@@ -1,0 +1,22 @@
+{
+  "name": "@urvishmali/kadence-headless-styles",
+  "version": "1.0.0",
+  "description": "Get Kadence CSS Styles in Headless CMS",
+  "main": "kadence.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvish10/kadence-headless-styles.git"
+  },
+  "keywords": [
+    "kadencestyles"
+  ],
+  "author": "Urvish Mali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvish10/kadence-headless-styles/issues"
+  },
+  "homepage": "https://github.com/urvish10/kadence-headless-styles#readme"
+}
